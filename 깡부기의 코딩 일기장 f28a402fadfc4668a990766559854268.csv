@@ -1,0 +1,38 @@
+﻿Name,꿀 팁 표시,날짜,목차,상태,작성일시
+,,,,,2022년 6월 25일 오전 1:07
+"1일차 확장 프로그램, 단축키 ",,,"확장 프로그램, 단축키 세팅",HTML,2022년 6월 24일 오후 11:40
+2일차 html5 기본구조,❤노랑 배경글,,"charset, 제목요소, 엔티티코드, 문단요소, 주소요소, 텍스트 관련 태그",HTML,2022년 6월 24일 오후 11:54
+"3일차 html a태그, 이미지",❤ 노랑 배경글,,"a 태그, 이미지",HTML,2022년 6월 24일 오후 11:40
+4일차 html 경로,❤ 노랑 배경글,,경로,HTML,2022년 6월 24일 오후 11:40
+"5일차 list, figure, 이미지맵, usemap, map, area, header, section",❤ 노랑 배경글,,"list, dl, figure, header, section, 이미지 맵, usemap, map, area",HTML,2022년 6월 24일 오후 11:40
+"6일차 네임앵커, table",❤ 노랑 배경글,,"네임 앵커, table",HTML,2022년 6월 24일 오후 11:40
+"7일차 table 접근성 scope, form 요소, input 태그의 type(text, password, search, email, tel, color, number, range, radio, checkbox), 속성(value, name, id까지)",❤ 노랑 배경글,,"table 접근성 scope, form 요소(action, method), input 태그의 type 속성",HTML,2022년 6월 25일 오전 12:25
+"8일차 form 속성 submit, reset, button, image, file & value 응용, textarea, select, selected",❤ 노랑 배경글,,"8일차 form 속성 submit, reset, button, image, file & value 응용, select, selected, textarea ",HTML,2022년 6월 29일 오후 9:07
+"9일차 form url, 달력 / 속성 placeholder, value 차이 autocomplete, pattern, multiple, disabled, readonly /   웹 사이트 구조요소 header, section, fooer",❤ 노랑 배경글,,"url, 달력 / 속성 placeholder, value 차이 autocomplete, pattern, multiple, disabled, readonly /   웹 사이트 구조요소 header, section, fooer",HTML,2022년 6월 29일 오후 9:07
+"10일차 audio, video, track, iframe 태그 (마지막)",❤ 노랑 배경글,,"audio, video, iframe 태그",HTML,2022년 7월 4일 오후 10:49
+"0일차 class, border",,,,CSS,2022년 6월 29일 오전 12:02
+"1일차 CSS 문법 / 내부 외부 스타일 import, 인라인 스타일 / 선택자",❤ 노랑 배경글,,"CSS 문법 / 내부 외부 스타일 import, 인라인 스타일 / 선택자",CSS,2022년 7월 5일 오후 9:28
+"2일차 / 속성선택자, 속성선택자 지정하기, 가상 선택자(link, visited, hover, active, focus / 속성 tabindex0 -1), 가상요소선택자, nth-of-type, 우선순위",❤ 노랑 배경글,,"속성선택자, 속성선택자 지정하기, 가상선택자, 가상요소선택자, nth-of-type, 우선순위",CSS,2022년 7월 6일 오후 9:12
+"3일차 font / css(em, vh, vw)단위",❤ 노랑 배경글,,,CSS,2022년 7월 6일 오후 9:29
+"4일차 line-height, 폰트 아이콘 가져오기, inherit(상속 속성)",❤ 노랑 배경글,,,CSS,2022년 7월 10일 오후 3:41
+"5일차, color 종류/ lettet-spacing 자간 간격 / word-spacing 단어 간격/ text-decoration 밑줄속성 / text-transform 대소문자 속성 / text-shadow 그림자 속성 / text-align 문단 수평 정렬 속성 / vertical-align 문단 수직 정렬 / text-indent 들여쓰기 / 텍스트 줄바꿈 word-break / 텍스트 줄 바꿈 white-space / text-overflow / line-height / display : table-cell / display : none; / visibility : hidden;",❤ 노랑 배경글,,,CSS,2022년 7월 11일 오후 9:06
+"6일차 overflow / 가상선택자 after, before 맛보기 / opacity : 불투명도 / 배경 이미지 background-image / repeat / position / attachment / size / origin / clip",❤ 노랑 배경글,,,CSS,2022년 7월 12일 오후 8:20
+7일차 gradient / 다중 배경 이미지 / 요소의 크기 min-height : 최소 높이 지정 / padding / margin / outline 테두리 외곽에 아우트라인 처리하기 / border-radius 둥근 테두리 / border-image 테두리 이미지 / box-sizing / float: left; / box-shadow / transform 변이 / transition 전이,❤ 노랑 배경글,,,CSS,2022년 7월 13일 오후 8:39
+8일차 animation / position / column / float / clear,❤ 노랑 배경글,,"animation, position",CSS,2022년 7월 14일 오후 5:46
+9일차 position,❤ 노랑 배경글,,,CSS,2022년 7월 19일 오후 9:26
+"10일차 미디어쿼리(반응형) / form 요소 응용(legend 안보이게 하기, 아이디 비밀번호 너비 같게 하기, select 화살표 사라지게 하기, lable을 안으로 집어 넣기)",❤ 노랑 배경글,,,CSS,2022년 7월 19일 오후 10:28
+11일차 미디어쿼리(반응형) 적용 / mostly fluid(기본형) / column drop,❤ 노랑 배경글,,,CSS,2022년 7월 27일 오후 9:20
+12일차 flex 사용법 / flex-direction(축 방향) / flex-wrap(줄바꿈) / flex-flow / justify-content(축 기준 정렬) / align-items(행간 세로 정렬) / align-self(자식 마다 선언) / align-content (세로 정렬) / flex 반응형 속성들,❤ 노랑 배경글,,,CSS,2022년 8월 7일 오후 2:42
+"13일차 transform과 크기변화, 이동변화, margin, position 변화를 줬을때 영역의 위치 차이 / 피그마로 애니메이션 좌표 따고 html에 적용 하기(css : offset ) / ",❤ 노랑 배경글,,,CSS,2022년 8월 10일 오후 9:32
+1일차,❤ 노랑 배경글,,,Jquery,2022년 8월 2일 오후 9:56
+급한 메모,,,,JAVA Script,2022년 8월 30일 오전 10:54
+=new Date( ); / .getHours( ) / % 나누기 연산자,,,,JAVA Script,2022년 8월 11일 오후 11:04
+"1일차 식별자의 종류 / const, var, let / const / document.write(''); → 문서 자료형 선언하기 / alert() 팝업창 / console 개발자모드 console창에 기록을 보여준다. / 숫자 자료형 / 논리자료형(bool, boolean) /  논리합, 논리곱 연산자 / prompt() → 입력 팝업창 출력 / 기본값으로 ,“글자” 를 입력한다.",❤ 노랑 배경글,,,JAVA Script,2022년 8월 8일 오후 7:11
+"2일차 변수 let / 변수 var / 복합 대입 연산자(+=) / 증감연산자(전위, 후위) / typeof() → 데이터의 형태를 알아보는 함수 / Number : 자료의 형을 숫자로 바꿔주는 함수, 숫자 연산자 / String 을 이용하여 문자형으로 변경, 빈 자료형 추가(+’ ’) / 논리자료형으로 변환 Boolean / confirm 확인 취소 띄어주는 함수",❤ 노랑 배경글,,,JAVA Script,2022년 8월 10일 오후 10:52
+"3 일차 조건문(if / if else / if문 중복 사용(if else 아래 if) / ",❤ 노랑 배경글,,,JAVA Script,2022년 8월 11일 오후 10:52
+GIT 오류 모음 / 로그인 오류,,,,GIT 깃,2022년 8월 13일 오전 11:28
+GIT 깃 초기 세팅 / 로컬과 원격 연결 / 깃 허브에서 html 문서 올려서 화면 보기 / 깃허브에 있는 html 다운 받아서 수정하기,,,,GIT 깃,2022년 8월 9일 오후 9:20
+gitignore / README.md,,,,GIT 깃,2022년 8월 11일 오전 1:38
+,,,,GIT 깃,2022년 8월 13일 오전 11:28
+세팅 방법,,,,SCSS,2022년 8월 29일 오후 6:31
+"미디어 쿼리는 화면 크기에 따른 각각의 속성 값을 지정하여, 여러가지 화면을 구성하는 기술을 말합니다.",,,,,2022년 7월 27일 오후 9:35
